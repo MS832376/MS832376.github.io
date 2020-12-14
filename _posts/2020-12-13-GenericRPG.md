@@ -3,9 +3,9 @@ title: "Generic RPG demo"
 date: 2020-12-13
 unity_dir: GenericRPG
 categories:
-  - Games
+  - General
 tags:
-  - Game
+  - test
 ---
 
 This is the demo for a game I've dubbed "Generic RPG."
