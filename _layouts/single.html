@@ -25,10 +25,23 @@ layout: default
     <div class="webgl-content" class="unity-desktop">
         <div id="gameContainer" style="width: 960px; height: 600px">
           <canvas id="unity-canvas" style="width: 960px; height: 600px; cursor: default;" width="960" height="600"></canvas>
+          <div id="unity-loading-bar">
+            <div id="unity-logo"></div>
+            <div id="unity-progress-bar-empty">
+              <div id="unity-progress-bar-full"></div>
+            </div>
+          </div>
+          <div id="unity-footer">
+            <div id="unity-webgl-logo"></div>
+            <div id="unity-fullscreen-button"></div>
+            <div id="unity-build-title"></div>
+          </div>
         {% if page.unity_dir %}
           {% include page__unity.html %}
         {% endif %}
       </div>
+      
+      
     </div>
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
