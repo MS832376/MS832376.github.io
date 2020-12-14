@@ -1,5 +1,6 @@
 ---
 title: "Generic RPG demo"
+date: 2020-12-13
 unity_dir: GenericRPG
 categories:
   - Games
