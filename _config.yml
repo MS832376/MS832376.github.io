@@ -270,7 +270,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/{{page.unity_dir}}"
+      path: ""
       type: posts
     values:
       layout: single
