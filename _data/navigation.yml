@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Genric RPG"
+    url: https://MS832376.github.io/GenericRPG/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   #- title: "Sample Posts"
