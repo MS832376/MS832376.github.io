@@ -36,7 +36,7 @@
       };
 
       var container = document.querySelector("#unity-container");
-      var canvas = document.querySelector("#unity-canvas");
+      var canvas = document.querySelector("#webgl-content");
       var loadingBar = document.querySelector("#unity-loading-bar");
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
@@ -48,7 +48,7 @@
         canvas.style.width = "960px";
         canvas.style.height = "600px";
       }
-      loadingBar.style.display = "inline-block";
+      loadingBar.style.display = "block";
 
       var script = document.createElement("script");
       script.src = loaderUrl;
