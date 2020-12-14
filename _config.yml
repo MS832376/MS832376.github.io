@@ -96,12 +96,12 @@ author:
   name             : "Mark Stone"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my github page, where I host various builds"
-  location         : "Somewhere"
-  email            :
+  location         : "Seattle, Washington"
+  email            : mstone2037@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mstone2037@gmail.com"
+      #url: "mstone2037@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/mark-stone-a11786129/"
