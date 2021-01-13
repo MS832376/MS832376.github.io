@@ -1,0 +1,12 @@
+---
+title: "Update on Progress"
+date: 2021-1-13
+categories:
+  - Updates
+tags:
+  - Life
+---
+
+Recently made the move to the west coast, so until all my computer parts arrive development of any projects is on pause.
+
+Just waiting on the monitor to arrive for now, and then I'll be looking to add a few more small personal projects to the site.
