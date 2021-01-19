@@ -15,3 +15,6 @@ In this demo you can find a long lost magic sword and use it to defeat some zomb
 The game also features some classic hits from some all-time great video games.
 
 Please note that this is still in a very early stage of development, and still has a long way to go
+
+
+Link if game doesn't load: https://play.unity.com/mg/other/generic-rpg
