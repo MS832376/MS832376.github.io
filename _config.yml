@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Mark Stone"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my github page, where I host various builds I'm working on. Sometimes the projects take a second to load."
+  bio              : "Welcome to my github page where I host various builds I'm working on. Sometimes the projects take a second to load."
   location         : "Seattle, Washington"
   email            : mstone2037@gmail.com
   links:
