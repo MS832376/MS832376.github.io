@@ -22,6 +22,7 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+    {% if page.unity_dir %}
     <div class="webgl-content" class="unity-desktop">
         <div id="gameContainer" style="width: 960px; height: 600px">
           <canvas id="unity-canvas" style="width: 960px; height: 600px; cursor: default;" width="960" height="600"></canvas>
@@ -40,7 +41,7 @@ layout: default
           {% include page__unity.html %}
         {% endif %}
       </div>
-      
+      {% endif %}
       
     </div>
     <div class="page__inner-wrap">
