@@ -1,6 +1,6 @@
 ---
 title: "Update 2: Electric Boogaloo"
-date: 2021-3-9
+date: 2021-4-9
 categories:
   - Updates
 tags:
@@ -8,12 +8,12 @@ tags:
   - Games
 ---
 
-Figured after a bit over a month it was time for another update in case anyone stopped by.
+Figured after a bit over two months it was time for another update in case anyone stopped by.
 
-As far as the job hunt goes the news is still pretty lackluster. In the process of setting up interviews for various positions, but nothing confirmed yet.
+As far as the job hunt goes the news is still pretty lackluster. Still searching, but not getting a ton of hits in the desired areas so its time to expand those job interest parameters.
 
-As for the video game development goes, good news! Finally figured out a jumping style that I like for my "Generic RPG" game, so a little expansion should be released for that soon.
+As for the video game development, I've finally got somewhat good news to share! Finally figured out a jumping style that I like for my "Generic RPG" game, so a little expansion should be released for that soon. The main focus right now is to completely finish the starter town, with a nonexistent timeline for finishing. Hoping that once I lock down a more permanent position I'll be able to relax a bit and enjoy the game dev cycle a bit more.
 
-Also have been spending a lot of time laying out the design for a large scale project I hope to begin working on soon™, so look out for that! Been contemplating making it my first big Unreal Engine project, but more on that later.
+In other news I've been playing around with Unreal Engine a lot more. No definite projects in the work just yet, but stay tuned for more.
 
-The dream is still to begin a career in Game Development, so please reach out if you feel you could provide me with that opportunity.
+The dream is still to begin a career in Game Development, but something is better than nothing so feel free to reach out if you have any openings.
