@@ -25,4 +25,4 @@ A lot of changes so bear with me here.
 
 There are likely a few more changes that I've made, but these were the main ones that came directly to mind.
 
-The best part of this all is that there are still so many more ideas that I need to finish implementing. Enjoy jumping around in what will eventually be the shield zone, and look forward to the future updates soon™.
+Still so many more ideas that I need to finish implementing. Enjoy jumping around in what will eventually be the shield zone, and look forward to the future updates soon™.
