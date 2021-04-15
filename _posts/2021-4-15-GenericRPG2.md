@@ -1,6 +1,6 @@
 ---
 title: "Generic RPG UPDATE"
-date: 2021-4-14
+date: 2021-4-15
 unity_dir: GenericRPG2
 categories:
   - Games
@@ -25,4 +25,6 @@ A lot of changes so bear with me here.
 
 There are likely a few more changes that I've made, but these were the main ones that came directly to mind.
 
-Still so many more ideas that I need to finish implementing. Enjoy jumping around in what will eventually be the shield zone, and look forward to the future updates soon™.
+Still so many more ideas that I need to finish implementing, but we're getting there. The zone to the east of the starter town is what will eventually be the Shield Zone. The main point of this zone will be to show off some boss fighting, but for now its just a fun little platforming area. I also plan on adding some additional goals and threats to the Forest Zone other than just getting lost.
+
+Enjoy jumping around in what will eventually be the shield zone, and look forward to the future updates soon™.
